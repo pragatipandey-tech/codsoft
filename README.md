@@ -1,7 +1,7 @@
 # codsoft
-**Titanic Survival Prediction**
+#Titanic Survival Prediction
 
-Project Overview
+**Project Overview**
 
 This project focuses on predicting whether a passenger survived the Titanic disaster using machine learning. By analyzing passenger details such as age, gender, travel class, and fare, the model learns patterns that help determine survival chances. This project demonstrates the complete data science workflow, from data cleaning to model evaluation.
 
